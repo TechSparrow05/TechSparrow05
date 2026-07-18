@@ -1,140 +1,185 @@
 <div align="center">
 
-# 🚀 ABI TECH
-### Student Project Hub
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=ABI%20TECH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20Project%20Hub&descAlignY=55&descSize=20" width="100%"/>
 
-**Practical, beginner-friendly academic projects for college students.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+beginner-friendly+academic+projects;Real-world+solutions+%2B+Clean+Code;Modern+UI%2FUX+for+Every+Student;Empowering+the+Next+Gen+Developers+%F0%9F%8C%B1" alt="Typing SVG" />
 
-Empowering students with hands-on experience through real-world solutions, clean code, and modern web technologies. 🌱
+<br>
 
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
-![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-Growing-orange?style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff69b4?style=for-the-badge)
+![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-00c896?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-4a00e0?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-Growing-ff9800?style=for-the-badge)
 
-[📘 About](#-about-the-project) •
-[📂 Categories](#-project-categories) •
-[🧑‍💻 Tech Stack](#-technologies-used) •
-[📄 Features](#-features) •
-[💡 Get Started](#-how-to-use)
+<p>
+<a href="#-about-the-project"><b>About</b></a> •
+<a href="#-project-categories"><b>Categories</b></a> •
+<a href="#-technologies-used"><b>Tech Stack</b></a> •
+<a href="#-features"><b>Features</b></a> •
+<a href="#-how-to-use"><b>Get Started</b></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 </div>
 
----
-
 ## 📘 About the Project
 
-This repository contains a growing collection of **academic projects** designed for:
+> A growing collection of **academic projects** — built for learning, made for showcasing.
 
-| 🎓 | 🧠 | 🛠️ | 💡 |
-|---|---|---|---|
-| College students | Beginners in web dev | Final year BE/B.Tech/MCA/BSc students | Anyone seeking simple, well-documented educational projects |
-
-Every project here is:
-
-- ✅ **Easy to understand** — clear structure, no unnecessary complexity
-- ✅ **Fully functional** — works out of the box
-- ✅ **Ready to deploy** — one step away from going live
-- ✅ **Modern UI/UX** — clean, responsive design
-- ✅ **College-showcase ready** — perfect for demos and submissions
-
----
-
-## 📂 Project Categories
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
-
-**🌐 Web Applications**
-HTML • CSS • JS • React • PHP • MySQL
-
-**📝 Quiz Portals**
-MCQs with scoring & certificates
-
-**⌨️ Typing Speed Games**
-Fun and functional
-
-</td>
-<td width="50%">
-
-**☁️ Cloud Computing Concepts**
-MCQ-based web modules
-
-**📋 Attendance Management Systems**
-Track & manage with ease
-
-**🔐 Ethical Hacking Study Tools**
-Learn security fundamentals
-
-</td>
+<td align="center" width="25%">🎓<br><b>College Students</b></td>
+<td align="center" width="25%">🧠<br><b>Web Dev Beginners</b></td>
+<td align="center" width="25%">🛠️<br><b>Final Year BE/B.Tech/MCA/BSc</b></td>
+<td align="center" width="25%">💡<br><b>Curious Learners</b></td>
 </tr>
 </table>
 
-> 🆕 And more categories coming soon...
+<div align="center">
 
----
+| ✅ Easy to Understand | ✅ Fully Functional | ✅ Deploy-Ready | ✅ Modern UI/UX | ✅ Showcase-Ready |
+|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📂 Project Categories
+
+<div align="center">
+
+<table>
+<tr>
+<th>🌐 Web Applications</th>
+<th>📝 Quiz Portals</th>
+<th>⌨️ Typing Games</th>
+</tr>
+<tr>
+<td>HTML • CSS • JS • React • PHP • MySQL</td>
+<td>MCQs with scoring & auto-certificates</td>
+<td>Fun, fast-paced, functional</td>
+</tr>
+<tr>
+<th>☁️ Cloud Computing</th>
+<th>📋 Attendance Systems</th>
+<th>🔐 Ethical Hacking Tools</th>
+</tr>
+<tr>
+<td>Concept-based MCQ web modules</td>
+<td>Smart tracking & management</td>
+<td>Security fundamentals, hands-on</td>
+</tr>
+</table>
+
+**🆕 More categories dropping soon — stay tuned!**
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🧑‍💻 Technologies Used
 
 <div align="center">
 
-| Layer | Stack |
-|---|---|
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Hosting** | ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?style=flat-square&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) |
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Hosting**
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📄 Features
 
-- 🧹 Clean, structured code
-- 📱 Fully responsive design
-- 📖 Beginner-friendly documentation
-- 🔥 Firebase integration (where applicable)
-- 🏆 Quiz scoring, leaderboard & certificate generation
-- 📲 PWA support for a native-like mobile experience
+<table align="center">
+<tr>
+<td>🧹 Clean, structured code</td>
+<td>📱 Fully responsive design</td>
+</tr>
+<tr>
+<td>📖 Beginner-friendly documentation</td>
+<td>🔥 Firebase integration (where applicable)</td>
+</tr>
+<tr>
+<td>🏆 Quiz scoring, leaderboard & certificates</td>
+<td>📲 PWA support for mobile experience</td>
+</tr>
+</table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 💡 How to Use
 
-**1. Fork or Clone this Repo**
+**1️⃣ Fork or Clone this Repo**
 
 ```bash
 git clone https://github.com/yourusername/abi-tech-projects.git
 ```
 
-**2. Navigate into the project folder**
+**2️⃣ Navigate into the project folder**
 
 ```bash
 cd abi-tech-projects
 ```
 
-**3. Open with your preferred code editor and run**
+**3️⃣ Run it your way**
 
 ```bash
-# For static HTML/CSS/JS projects
+# Static HTML/CSS/JS projects
 open index.html
 
-# For React projects
+# React projects
 npm install
 npm start
 
-# For PHP projects (using XAMPP)
-# Move the folder to htdocs and start Apache + MySQL
+# PHP projects (via XAMPP)
+# Move the folder to htdocs, then start Apache + MySQL
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
 
-### ⭐ If this repo helped you, consider giving it a star!
+### ⭐ Found this useful? Drop a star — it fuels more free projects for students!
 
-**Made with 💙 by ABI TECH**
+<a href="https://github.com/yourusername/abi-tech-projects/stargazers">
+<img src="https://img.shields.io/github/stars/yourusername/abi-tech-projects?style=for-the-badge&color=8E2DE2&logo=github" />
+</a>
+<a href="https://github.com/yourusername/abi-tech-projects/network/members">
+<img src="https://img.shields.io/github/forks/yourusername/abi-tech-projects?style=for-the-badge&color=4A00E0&logo=github" />
+</a>
+<a href="https://github.com/yourusername/abi-tech-projects/issues">
+<img src="https://img.shields.io/github/issues/yourusername/abi-tech-projects?style=for-the-badge&color=ff9800&logo=github" />
+</a>
+
+<br><br>
+
+**Made with 💙 by ABI TECH — Empowering Students, One Project at a Time**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
 
 </div>
