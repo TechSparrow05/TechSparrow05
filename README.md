@@ -1,27 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ABI%20TECH&fontSize=70&fontColor=00F5D4&fontAlignY=40&animation=twinkling&desc=%3E%20student.projects.init()&descAlignY=62&descColor=8A8AFF&fontSize=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,25:4a0080,50:7b2ff7,75:c724b1,100:ff2d95&height=200&section=header&text=ABI%20TECH&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Student%20Project%20Hub%20%7C%20Web%20%E2%80%A2%20AI%20%E2%80%A2%20Open%20Source&descAlignY=58&descColor=e0c3fc&fontSize=45" width="100%"/>
 
-</div>
+### 🔗 Connect with us
 
-<br>
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  user@abi-tech:~$ whoami                                      │
-│  > A startup hub building real academic projects for students │
-│                                                                 │
-│  user@abi-tech:~$ mission --show                               │
-│  > Hands-on experience. Real solutions. Clean code. 🌱          │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00F5D4?style=flat-square&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/PROJECTS-GROWING-8A8AFF?style=flat-square&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/LICENSE-MIT-FF6EC7?style=flat-square&labelColor=0f0c29" />
-<img src="https://img.shields.io/badge/BUILT_FOR-STUDENTS-FFD166?style=flat-square&labelColor=0f0c29" />
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Website-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-C724B1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -29,48 +16,23 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="65%" valign="top">
 
-### 🎯 `/who-its-for`
+### 💜 About Us
 
-```yaml
-audience:
-  - college_students
-  - dev_beginners
-  - final_year:
-      - BE
-      - B.Tech
-      - MCA
-      - BSc
-  - curious_learners
-```
+- 🚀 We build **beginner-friendly academic projects** for college students
+- 🎓 Focused on **final-year BE / B.Tech / MCA / BSc** submissions
+- 🧩 Every project is **clean, documented & deploy-ready**
+- 🌱 From quiz portals to full-stack web apps — real code, real learning
+- 💬 Ask us about **React, Firebase, PHP/MySQL, and Node.js**
+- 📬 Reach us: **contact@abitech.dev**
 
 </td>
-<td width="33%" valign="top">
+<td width="35%" align="center" valign="top">
 
-### ⚙️ `/what-you-get`
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/eddie-hazel.gif" width="180"/>
 
-```yaml
-guarantee:
-  understand: easy
-  status: functional
-  deploy: ready
-  design: modern
-  showcase: college_ready
-```
-
-</td>
-<td width="33%" valign="top">
-
-### 🧬 `/core-values`
-
-```yaml
-principles:
-  - clean_code
-  - documentation_first
-  - real_world_use_case
-  - zero_gatekeeping
-```
+<sub><i>swap this for your own avatar / mascot image</i></sub>
 
 </td>
 </tr>
@@ -80,135 +42,105 @@ principles:
 
 <div align="center">
 
-## 📦 PROJECT MODULES
+## 📦 Project Modules
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-> ### 🌐 `web-applications`
-> **Stack:** HTML · CSS · JS · React · PHP · MySQL
-> Full-stack builds from static sites to dynamic dashboards.
-
-</td>
-<td width="50%" valign="top">
-
-> ### 📝 `quiz-portal`
-> **Feature:** MCQ engine + scoring + auto certificates
-> Drop-in exam simulator for any subject.
+**🌐**
+<br>**Web Apps**
+<br><sub>HTML·CSS·JS·React</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-> ### ⌨️ `typing-speed-arena`
-> **Feature:** WPM tracking + accuracy + leaderboard
-> Gamified practice tool, genuinely addictive.
+**📝**
+<br>**Quiz Portals**
+<br><sub>Scoring + Certificates</sub>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-> ### ☁️ `cloud-concepts-mcq`
-> **Feature:** Concept-first cloud computing quiz web
-> Learn cloud fundamentals by testing them.
+**⌨️**
+<br>**Typing Arena**
+<br><sub>WPM + Leaderboard</sub>
+
+</td>
+<td align="center" width="25%">
+
+**☁️**
+<br>**Cloud MCQs**
+<br><sub>Concept Quizzes</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-> ### 📋 `attendance-manager`
-> **Feature:** Role-based tracking + reports
-> Built for classrooms, ready for real use.
+**📋**
+<br>**Attendance Sys**
+<br><sub>Role-based Tracking</sub>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-> ### 🔐 `ethical-hacking-toolkit`
-> **Feature:** Security fundamentals, hands-on labs
-> Learn how attacks work to learn how to stop them.
+**🔐**
+<br>**Ethical Hacking**
+<br><sub>Security Labs</sub>
+
+</td>
+<td align="center" width="25%">
+
+**🔥**
+<br>**Firebase Apps**
+<br><sub>Auth + Realtime DB</sub>
+
+</td>
+<td align="center" width="25%">
+
+**➕**
+<br>**More Soon**
+<br><sub>New Every Month</sub>
 
 </td>
 </tr>
-</table>
-
-<div align="center">
-
-`+ more modules shipping soon...`
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🧠 TECH STACK
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,nodejs,express,mysql,firebase,mongodb,vercel,netlify,github&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 📊 SYSTEM FEATURES
-
-</div>
-
-<table width="100%">
-<tr><td>🧹</td><td><b>Clean, structured code</b></td><td>Every file organized, every function named right.</td></tr>
-<tr><td>📱</td><td><b>Fully responsive</b></td><td>Mobile-first, works on any screen.</td></tr>
-<tr><td>📖</td><td><b>Documented</b></td><td>README + comments, beginner-safe.</td></tr>
-<tr><td>🔥</td><td><b>Firebase-ready</b></td><td>Auth, realtime DB, hosting — plug and play.</td></tr>
-<tr><td>🏆</td><td><b>Gamified quizzes</b></td><td>Scoring, leaderboards, certificates.</td></tr>
-<tr><td>📲</td><td><b>PWA support</b></td><td>Installable, app-like mobile experience.</td></tr>
 </table>
 
 <br>
 
 <div align="center">
 
-## 🚀 QUICKSTART
+## 🧠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,nodejs,express,mysql,firebase,mongodb,vercel,netlify,github&theme=dark&perline=8" />
 
 </div>
-
-```bash
-# clone the hub
-git clone https://github.com/yourusername/abi-tech-projects.git
-cd abi-tech-projects
-
-# static projects
-open index.html
-
-# react projects
-npm install && npm start
-
-# php projects (via XAMPP)
-# → move folder to htdocs, start Apache + MySQL
-```
 
 <br>
 
 <div align="center">
 
-## 📈 REPO PULSE
+## 📊 Stats
 
-<img src="https://img.shields.io/github/stars/yourusername/abi-tech-projects?style=for-the-badge&labelColor=0f0c29&color=00F5D4" />
-<img src="https://img.shields.io/github/forks/yourusername/abi-tech-projects?style=for-the-badge&labelColor=0f0c29&color=8A8AFF" />
-<img src="https://img.shields.io/github/last-commit/yourusername/abi-tech-projects?style=for-the-badge&labelColor=0f0c29&color=FF6EC7" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=1a0033&title_color=ff2d95&icon_color=c724b1&text_color=e0c3fc" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=1a0033&stroke=ff2d95&ring=c724b1&fire=ff2d95&currStreakLabel=e0c3fc" height="170"/>
 
-<br><br>
+<br>
 
-```
-> if (this.helped === true) { star.this.repo(); }
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=1a0033&title_color=ff2d95&text_color=e0c3fc" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&bg_color=1a0033&color=e0c3fc&line=ff2d95&point=c724b1&hide_border=true" height="180"/>
 
-**ABI TECH** — building the projects that build students.
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<br>
+
+<div align="center">
+
+### ⭐ Star this hub if it helped you build something great!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d95,25:c724b1,50:7b2ff7,75:4a0080,100:1a0033&height=100&section=footer" width="100%"/>
 
 </div>
